@@ -1,4 +1,5 @@
 # ATENÇÃO, ESSE EXEMPLO VAI RODAR SEM PARAR NO SEU TERMINAL
+#while geralmente é utilizado para jogos.
 
 exemplo = true
 while exemplo do

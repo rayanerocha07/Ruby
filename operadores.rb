@@ -4,6 +4,7 @@
 # >= #maior ou igual
 # < #menor
 # <= #menor ou igual
+# % resto da divisão (módulo)
 
 
 exemplo = 10
